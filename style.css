@@ -1,0 +1,46 @@
+.cite i {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+.heading {
+    text-decoration: underline;
+}
+
+.title {
+    text-transform: uppercase;
+}
+
+/*Задача про товары*/
+.goods {
+    outline: 2px solid green;
+}
+
+.good--available {
+    color: green;
+}
+.good--unavailable {
+    color: grey;
+}
+.good--hit {
+    color: red;
+}
+
+.ten {
+    background-color: #eee;
+    padding: 5px;
+}
+
+.cards {
+    background-color: rgb(183, 185, 183);
+    padding: 5px;
+    outline: 1px solid green;
+    margin-bottom: 20px;
+}
+.card {
+    margin-bottom: 20px;
+    outline: 1px solid green;
+}
